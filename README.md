@@ -2,7 +2,7 @@
 
 En este desafío, he aplicado los conceptos de "Estado de los componentes y eventos" para desarrollar una aplicación en React que permite a los usuarios validar un formulario de registro utilizando eventos onChange y onSubmit.
 
-## Descripción del Desafío 📝
+## Descripción del Desafío 🤓
 
 El objetivo de este desafío era crear una aplicación en React que permitiera a los usuarios validar un formulario de registro utilizando eventos onChange y onSubmit. La aplicación debía incluir al menos cuatro componentes: Registro, SocialButton, Formulario y Alert. El componente Registro importaría los otros componentes y mostraría un formulario de registro con campos para nombre, correo electrónico, contraseña y confirmación de contraseña. La validación del formulario debía realizarse mediante el evento onSubmit, verificando que el correo electrónico tuviera el formato correcto y que las contraseñas coincidieran.
 
